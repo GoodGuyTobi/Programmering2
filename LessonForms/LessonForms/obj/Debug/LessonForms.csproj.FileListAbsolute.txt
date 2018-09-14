@@ -1,0 +1,10 @@
+C:\Users\elev\Desktop\Programmering\Programmering2\LessonForms\LessonForms\bin\Debug\LessonForms.exe.config
+C:\Users\elev\Desktop\Programmering\Programmering2\LessonForms\LessonForms\bin\Debug\LessonForms.exe
+C:\Users\elev\Desktop\Programmering\Programmering2\LessonForms\LessonForms\bin\Debug\LessonForms.pdb
+C:\Users\elev\Desktop\Programmering\Programmering2\LessonForms\LessonForms\obj\Debug\LessonForms.csprojResolveAssemblyReference.cache
+C:\Users\elev\Desktop\Programmering\Programmering2\LessonForms\LessonForms\obj\Debug\LessonForms.Form1.resources
+C:\Users\elev\Desktop\Programmering\Programmering2\LessonForms\LessonForms\obj\Debug\LessonForms.Properties.Resources.resources
+C:\Users\elev\Desktop\Programmering\Programmering2\LessonForms\LessonForms\obj\Debug\LessonForms.csproj.GenerateResource.Cache
+C:\Users\elev\Desktop\Programmering\Programmering2\LessonForms\LessonForms\obj\Debug\LessonForms.csproj.CoreCompileInputs.cache
+C:\Users\elev\Desktop\Programmering\Programmering2\LessonForms\LessonForms\obj\Debug\LessonForms.exe
+C:\Users\elev\Desktop\Programmering\Programmering2\LessonForms\LessonForms\obj\Debug\LessonForms.pdb

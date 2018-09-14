@@ -1,0 +1,11 @@
+C:\Users\elev\Desktop\Programmering\Prog2\Repitition\Repitition\bin\Debug\netcoreapp2.0\Repitition.deps.json
+C:\Users\elev\Desktop\Programmering\Prog2\Repitition\Repitition\bin\Debug\netcoreapp2.0\Repitition.runtimeconfig.json
+C:\Users\elev\Desktop\Programmering\Prog2\Repitition\Repitition\bin\Debug\netcoreapp2.0\Repitition.runtimeconfig.dev.json
+C:\Users\elev\Desktop\Programmering\Prog2\Repitition\Repitition\bin\Debug\netcoreapp2.0\Repitition.dll
+C:\Users\elev\Desktop\Programmering\Prog2\Repitition\Repitition\bin\Debug\netcoreapp2.0\Repitition.pdb
+C:\Users\elev\Desktop\Programmering\Prog2\Repitition\Repitition\obj\Debug\netcoreapp2.0\Repitition.csprojResolveAssemblyReference.cache
+C:\Users\elev\Desktop\Programmering\Prog2\Repitition\Repitition\obj\Debug\netcoreapp2.0\Repitition.csproj.CoreCompileInputs.cache
+C:\Users\elev\Desktop\Programmering\Prog2\Repitition\Repitition\obj\Debug\netcoreapp2.0\Repitition.AssemblyInfoInputs.cache
+C:\Users\elev\Desktop\Programmering\Prog2\Repitition\Repitition\obj\Debug\netcoreapp2.0\Repitition.AssemblyInfo.cs
+C:\Users\elev\Desktop\Programmering\Prog2\Repitition\Repitition\obj\Debug\netcoreapp2.0\Repitition.dll
+C:\Users\elev\Desktop\Programmering\Prog2\Repitition\Repitition\obj\Debug\netcoreapp2.0\Repitition.pdb

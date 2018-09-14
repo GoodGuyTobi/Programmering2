@@ -1,0 +1,11 @@
+C:\Users\elev\Desktop\Programmering\Programmering2\ApartmentBuilderV2\ApartmentBuilderV2\bin\Debug\ApartmentBuilderV2.exe.config
+C:\Users\elev\Desktop\Programmering\Programmering2\ApartmentBuilderV2\ApartmentBuilderV2\bin\Debug\ApartmentBuilderV2.exe
+C:\Users\elev\Desktop\Programmering\Programmering2\ApartmentBuilderV2\ApartmentBuilderV2\bin\Debug\ApartmentBuilderV2.pdb
+C:\Users\elev\Desktop\Programmering\Programmering2\ApartmentBuilderV2\ApartmentBuilderV2\obj\Debug\ApartmentBuilderV2.csprojResolveAssemblyReference.cache
+C:\Users\elev\Desktop\Programmering\Programmering2\ApartmentBuilderV2\ApartmentBuilderV2\obj\Debug\ApartmentBuilderV2.Form1.resources
+C:\Users\elev\Desktop\Programmering\Programmering2\ApartmentBuilderV2\ApartmentBuilderV2\obj\Debug\ApartmentBuilderV2.Properties.Resources.resources
+C:\Users\elev\Desktop\Programmering\Programmering2\ApartmentBuilderV2\ApartmentBuilderV2\obj\Debug\ApartmentBuilderV2.csproj.GenerateResource.Cache
+C:\Users\elev\Desktop\Programmering\Programmering2\ApartmentBuilderV2\ApartmentBuilderV2\obj\Debug\ApartmentBuilderV2.csproj.CoreCompileInputs.cache
+C:\Users\elev\Desktop\Programmering\Programmering2\ApartmentBuilderV2\ApartmentBuilderV2\obj\Debug\ApartmentBuilderV2.exe
+C:\Users\elev\Desktop\Programmering\Programmering2\ApartmentBuilderV2\ApartmentBuilderV2\obj\Debug\ApartmentBuilderV2.pdb
+C:\Users\elev\Desktop\Programmering\Programmering2\ApartmentBuilderV2\ApartmentBuilderV2\obj\Debug\ApartmentBuilderV2.CreateNewApartment.resources
